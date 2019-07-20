@@ -2,7 +2,18 @@
   text-align: center;
 }
 .Header {
-  color: #443e3e;
-  text-shadow: 1px 1px 5px #fff;
+  color:rgb(235, 8, 8);
+  text-shadow: 1px 1px 5p rgb(151, 109, 116);
 }
+.center {
+  width: 100%;
+  margin: 0 auto;
+}
+.card {
+  background: pink;
+  width: 70%;
+}
+.card img.card-img-top {
+  width: 100%
+};
 /* write your parent styles in here for your App.js */
